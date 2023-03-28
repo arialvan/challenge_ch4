@@ -1,0 +1,60 @@
+body{
+    background-color:#9C835F;
+}
+
+.link-back {
+    width: 55px;
+    height: 87px;
+    font-family: Open Sans;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 98px;
+    letter-spacing: 0.1em;
+    color: #6c4e23;
+}
+
+h1 {
+    font-size: 5em;
+    font-weight: bold;
+  }
+
+.logo-1, a:hover{
+    color: #6c4e23;
+    border-radius: 10px;
+}
+
+#Div2 {
+    display: none;
+}
+
+#hasil
+{
+    /* -ms-transform: rotate(325deg); */
+    transform: rotate(325deg);
+    position:fixed; 
+    margin-left:-180px; 
+    font-size: 38px; 
+    font-family: 'Open Sans' ;
+    /* text-align: center; */
+    margin-top:10px; 
+    cursor: pointer; 
+    background-color: rgb(47, 126, 32);
+}
+
+.battle:hover{
+    background-color: #d2d4d8;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.battlecom{
+    background-color: #d2d4d8;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
